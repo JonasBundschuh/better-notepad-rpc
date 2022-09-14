@@ -1,2 +1,2 @@
 # better-notepad-rpc
-Improved Notepad++ Rich-Presence
+Notepad++ RPC but simplyfied
